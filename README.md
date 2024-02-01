@@ -5,7 +5,7 @@
 1. **Navigate to the Project Directory:**
    ```bash
    cd todo_app
-2. **Move to the venv : **
+2. **Activate the venv:**
    ```bash
    source bin/activate
 3. **Run the Flask Application server.py**
