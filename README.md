@@ -28,8 +28,8 @@ The Flask Todo App supports basic CRUD (Create, Read, Update, Delete) operations
 - Navigate to the "Edit Todo" page by clicking on the edit icon next to a todo.
 - Modify the todo details as needed and click the "Update" button.
 
-  ## Delete (Remove a Todo)
-  - On the home page, each todo entry has a "Delete" button.
-  - Click the "Delete" button next to the todo you want to remove.
+## Delete (Remove a Todo)
+- On the home page, each todo entry has a "Delete" button.
+- Click the "Delete" button next to the todo you want to remove.
  
- ### These basic CRUD operations allow you to manage your todos effectively. Customize and expand the application based on your specific requirements.
+#### These basic CRUD operations allow you to manage your todos effectively. Customize and expand the application based on your specific requirements.
